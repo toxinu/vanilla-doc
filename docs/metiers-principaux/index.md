@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Métiers
-slug: metiers
+title: Métiers principaux
+slug: metiers-principaus
 date: 2013-12-20 15:07:26
 ---
 
-<h1 id="metiers">Les métiers</h1>
+<h1 id="metiers-principaux">Les métiers principaux</h1>
 
 <h2 id="ingenieur">Les ingénieurs</h2>
 
