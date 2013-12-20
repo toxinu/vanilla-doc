@@ -119,6 +119,6 @@ Autres informations utiles
 * Liste des instructeurs pour la cuisine (écran) ou (PDF).
 * Description de la quête de Maîtrise (PDF).
 
-[peche]: {{ baseurl}}/docs/metiers-secondaires/#peche
-[cuisine]: {{ baseurl}}/docs/metiers-secondaires/#cuisine
+[peche]: {{ baseurl }}/docs/metiers-secondaires/#peche
+[cuisine]: {{ baseurl }}/docs/metiers-secondaires/#cuisine
 [alchimie]: {{ baseurl }}/docs/metiers-principaux/#alchimie

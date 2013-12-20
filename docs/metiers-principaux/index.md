@@ -738,10 +738,10 @@ Autres informations utiles
 * Vous pouvez consulter la page officielle.
 * Liste des instructeurs pour l'alchimie (écran) ou (PDF)
 
-[peche]: {{ baseurl}}/docs/metiers-secondaires/#peche
-[ingenierie]: {{ baseurl }}/docs/metiers-principaux/#ingenierie
-[alchimie]: {{ baseurl }}/docs/metiers-principaux/#alchimie
-[mineur]: {{ baseurl }}/docs/metiers-principaux/#mineur
-[travail-du-cuir]: {{ baseurl }}/docs/metiers-principaux/#travail-du-cuir
-[tailleur]: {{ baseurl }}/docs/metiers-principaux/#tailleur
-[forge]: {{ baseurl }}/docs/metiers-principaux/#forgeron
+[peche]: {{ site.baseurl }}/docs/metiers-secondaires/#peche
+[ingenierie]: {{ site.baseurl }}/docs/metiers-principaux/#ingenierie
+[alchimie]: {{ site.baseurl }}/docs/metiers-principaux/#alchimie
+[mineur]: {{ site.baseurl }}/docs/metiers-principaux/#mineur
+[travail-du-cuir]: {{ site.baseurl }}/docs/metiers-principaux/#travail-du-cuir
+[tailleur]: {{ site.baseurl }}/docs/metiers-principaux/#tailleur
+[forge]: {{ site.baseurl }}/docs/metiers-principaux/#forgeron
