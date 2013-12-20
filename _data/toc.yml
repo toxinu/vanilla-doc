@@ -1,0 +1,15 @@
+categories:
+    -
+        title: 'Métiers'
+        url: 'metiers'
+        pages:
+            -
+                title: 'Minage'
+                url: 'minage'
+    -
+        title: 'Quêtes'
+        url: 'quetes'
+        pages:
+            -
+                title: 'Tarides'
+                url: 'tari'

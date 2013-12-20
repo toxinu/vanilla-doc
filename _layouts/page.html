@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<div class="left-pane">
+    <ul class="toc">
+        <li>
+            <a class="brand" href="/" style="padding-left:10px">
+                <i class="fa fa-home fa-white"></i> HOME
+            </a>
+        </li>
+        {% for category in site.data.toc.categories %}
+            {% if category.url == page.slug %}
+                <li class="active">
+                    <a class="heading" href="/docs/{{ category.url }}">
+                        {{ category.title }}
+                    </a>
+                </li>
+            {% else %}
+                <li>
+                    <a class="heading" href="/docs/{{ category.url }}">
+                        {{ category.title }}
+                    </a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="outline-pane"></div>
+
+<div class="novel-container">
+    <div class="inner">
+      <div class="main-content novel docs layout-docs-layout">
+        <div class="inner">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+</div>
+
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date_to_string }}</p>
