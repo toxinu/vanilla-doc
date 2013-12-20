@@ -1,15 +1,16 @@
 categories:
     -
-        title: 'Métiers'
-        url: 'metiers'
-        pages:
-            -
-                title: 'Minage'
-                url: 'minage'
+        title: 'Classes'
+        url: 'classes'
+    -
+        title: 'Métiers principaux'
+        url: 'metiers-principaux'
+    -
+        title: 'Métiers secondaires'
+        url: 'metiers-secondaires'
+    -
+        title: 'Régions'
+        url: 'regions'
     -
         title: 'Quêtes'
         url: 'quetes'
-        pages:
-            -
-                title: 'Tarides'
-                url: 'tari'

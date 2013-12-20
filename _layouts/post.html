@@ -1,22 +1,7 @@
 ---
 layout: default
 ---
-<div class="left-pane">
-    <ul class="toc">
-        <li>
-            <a class="brand" href="{{ site.baseurl }}" style="padding-left:10px">
-                <i class="fa fa-home fa-white"></i> HOME
-            </a>
-        </li>
-        {% for category in site.data.toc.categories %}
-            <li>
-                <a class="heading" href="{{ site.baseurl }}/docs/{{ category.url }}">
-                    {{ category.title }}
-                </a>
-            </li>
-        {% endfor %}
-    </ul>
-</div>
+{% include menu.html %}
 
 <div class="novel-container">
 
