@@ -5,8 +5,6 @@ slug: quetes
 date:   2013-12-20 15:07:26
 ---
 
-<h1 id="quetes">Les quêtes</h1>
-
 <h2 id="tarides">Les Tarides</h2>
 
 blahlablbla
