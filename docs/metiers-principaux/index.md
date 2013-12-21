@@ -14,7 +14,7 @@ Le dépeçage permet de rassembler des pièces de cuir et de peaux d'animaux mor
 
 **Pour qui ?**
 
-D'une manière générale le dépeçage est associée au [travail du cuir][travail-du-cuir] plutôt qu'à une classe. On choisira aussi cette profession dans un but financier afin de revendre la récolte, la majorité des cuirs et peaux et cela d'autant plus qu'ils sont rares se revendent très bien et assez cher. Notez qu'un [tailleur][tailleur] voire un [forgeron][forge] (dans une moindre mesure) peut trouver cette profession d'autant plus intéressante que des recettes pour ces 2 métiers utilisent du cuir.
+D'une manière générale le dépeçage est associée au [travail du cuir][travail-du-cuir] plutôt qu'à une classe. On choisira aussi cette profession dans un but financier afin de revendre la récolte, la majorité des cuirs et peaux et cela d'autant plus qu'ils sont rares et se revendent donc très bien et assez cher. Notez qu'un [tailleur][tailleur] voire un [forgeron][forge] (dans une moindre mesure) peut trouver cette profession d'autant plus intéressante que des recettes pour ces 2 métiers utilisent du cuir.
 
 **Devenir Dépeceur et progresser**
 
