@@ -1,16 +1,54 @@
 categories:
     -
+        title: '<i class="fa fa-search"></i>Recherche'
+        slug: 'recherche'
+        url: 'recherche.html'
+    -
+        title: 'Histoire'
+        slug: 'histoire'
+        url: 'histoire'
+    -
+        title: 'Villes'
+        slug: 'villes'
+        url: 'villes'
+    -
+        title: 'Régions'
+        slug: 'regions'
+        url: 'regions'
+    -
+        title: 'Races'
+        slug: 'races'
+        url: 'races'
+    -
         title: 'Classes'
+        slug: 'classes'
         url: 'classes'
     -
         title: 'Métiers principaux'
+        slug: 'metiers-principaux'
         url: 'metiers-principaux'
     -
         title: 'Métiers secondaires'
+        slug: 'metiers-secondaires'
         url: 'metiers-secondaires'
-    -
-        title: 'Régions'
-        url: 'regions'
+
     -
         title: 'Quêtes'
+        slug: 'quetes'
         url: 'quetes'
+    -
+        title: 'Donjons'
+        slug: 'donjons'
+        url: 'donjons'
+    -
+        title: 'Raids'
+        slug: 'raids'
+        url: 'raids'
+    -
+        title: '<em>Glossaire</em>'
+        slug: 'glossaire'
+        url: 'glossaire.html'
+    -
+        title: '<em>À propos</em>'
+        slug: 'apropos'
+        url: 'apropos.html'

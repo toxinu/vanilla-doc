@@ -2,11 +2,11 @@
     <ul class="toc">
         <li>
             <a class="brand" href="{{ site.baseurl }}/" style="padding-left:10px">
-                <i class="fa fa-home fa-white"></i> HOME
+                <i class="fa fa-home fa-white"></i>ACCUEIL
             </a>
         </li>
         {% for category in site.data.toc.categories %}
-            {% if category.url == page.slug %}
+            {% if category.slug == page.slug %}
                 <li class="active">
                     <a class="heading" href="{{ site.baseurl }}/docs/{{ category.url }}">
                         {{ category.title }}
