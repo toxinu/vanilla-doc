@@ -14,11 +14,11 @@ Le dépeçage permet de rassembler des pièces de cuir et de peaux d'animaux mor
 
 **Pour qui ?**
 
-D'une manière générale le dépeçage est associée au [travail du cuir][travail-du-cuir] plutôt qu'à une classe. On choisira aussi cette profession dans un but financier afin de revendre la récolte, la majorité des cuirs et peaux et cela d'autant plus qu'ils sont rares et se revendent donc très bien et assez cher. Notez qu'un [tailleur][tailleur] voire un [forgeron][forge] (dans une moindre mesure) peut trouver cette profession d'autant plus intéressante que des recettes pour ces 2 métiers utilisent du cuir.
+D'une manière générale le dépeçage est associée au [travail du cuir][travail-du-cuir] plutôt qu'à une classe. On choisira aussi cette profession dans un but financier afin de revendre la récolte, la majorité des cuirs et peaux et cela d'autant plus qu'ils sont rares et se revendent donc très bien et assez cher. Notez qu'un [tailleur][tailleur] voire un [forgeron][forge] (dans une moindre mesure) peut trouver cette profession d'autant plus intéressante que des recettes pour ces deux métiers utilisent du cuir.
 
 **Devenir Dépeceur et progresser**
 
-Comme tous les métiers de collecte, la profession de dépeceur peut être apprise, dès le niveau 1, auprès d'un instructeur qui restera le même jusqu'au niveau maître. Il n'y pas de nécessité de rechercher un instructeur spécialisé qu'à partir de 300 dans votre compétence.
+Comme tous les métiers de collecte, la profession de dépeceur peut être apprise, dès le premier niveau, auprès d'un instructeur qui restera le même jusqu'au niveau maître. Il n'y pas de nécessité de rechercher un instructeur spécialisé qu'à partir de 300 dans votre compétence.
 Vous pourrez progresser en récoltant la peau des animaux morts. Non seulement ceux que vous avez tués mais également les dépouilles laissées par les autres joueurs. On ne peut dépecer une créature qui n'a pas été lootée.
 La qualité et le type de cuir que vous obtenez dépendent du niveau de la créature et de votre compétence.
 
