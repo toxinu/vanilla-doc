@@ -22,8 +22,8 @@ Comme tous les métiers de collecte, la profession de dépeceur peut être appri
 Vous pourrez progresser en récoltant la peau des animaux morts. Non seulement ceux que vous avez tués mais également les dépouilles laissées par les autres joueurs. On ne peut dépecer une créature qui n'a pas été lootée.
 La qualité et le type de cuir que vous obtenez dépendent du niveau de la créature et de votre compétence.
 
-*NB*: En général vous trouverez un instructeur pour le [travail du cuir][travail-du-cuir] non loin de votre instructeur dépeceur.
-*Outil*: Couteau de dépeceur
+* *NB*: En général vous trouverez un instructeur pour le [travail du cuir][travail-du-cuir] non loin de votre instructeur dépeceur.
+* *Outil*: Couteau de dépeceur
 
 **Informations**
 
