@@ -27,7 +27,7 @@ La qualité et le type de cuir que vous obtenez dépendent du niveau de la créa
 
 **Informations**
 
-* Le résultat de la récolte est 1 à 3 cuirs ou une peau (rare).
+* Le résultat de la récolte est de 1 à 3 cuirs ou une peau (rare).
 * D'une manière globale, au maximum, vous pouvez dépecer un animal d'un niveau égal à votre compétence divisée par 5, d'un autre coté le dépeçage d'un animal dont le niveau est inférieur à votre compétence divisée par 10 ne pourra plus vous faire progresser.
 * Les cuirs peuvent être empilés par 20, les peaux par 10 avant traitement, 20 après traitement.
 * Il faut environ 5 secondes pour dépeucer une créature. Attention aux créatures et ennemis qui peuvent vous interrompre.
