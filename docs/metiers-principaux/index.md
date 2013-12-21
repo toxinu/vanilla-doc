@@ -10,7 +10,7 @@ date: 2013-12-20 15:07:26
 * *Compétence* : Dépeçage
 * *Association* : [Travail du cuir][travail-du-cuir]
 
-Le dépeçage permet de rassembler des pièces de cuir et de peaux d'animaux morts. Cuirs et peaux sont ainsi très utiles aux artisans du cuir, mais aussi à certains forgerons, aux ingénieurs et aux tailleurs.
+Le dépeçage permet de rassembler des pièces de cuir et de peaux d'animaux morts. Cuirs et peaux sont ainsi très utiles aux [artisans du cuir][travail-du-cuir], mais aussi à certains [forgerons][forge], aux [ingénieurs][ingenierie] et aux [tailleurs][tailleur].
 
 **Pour qui ?**
 
