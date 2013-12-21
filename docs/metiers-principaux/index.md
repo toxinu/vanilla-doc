@@ -10,24 +10,24 @@ date: 2013-12-20 15:07:26
 * *Compétence* : Dépeçage
 * *Association* : [Travail du cuir][travail-du-cuir]
 
-Le dépeçage permet de rassembler des pièces de cuir et de peaux d'animaux morts. Cuirs et peaux sont ainsi très utiles aux artisans du cuir, mais aussi à certains forgerons, aux ingénieurs et aux tailleurs.
+Le dépeçage permet de rassembler des pièces de cuir et de peaux d'animaux morts. Cuirs et peaux sont ainsi très utiles aux [artisans du cuir][travail-du-cuir], mais aussi à certains [forgerons][forge], aux [ingénieurs][ingenierie] et aux [tailleurs][tailleur].
 
 **Pour qui ?**
 
-D'une manière générale le dépeçage est associée au [travail du cuir][travail-du-cuir] plutôt qu'à une classe. On choisira aussi cette profession dans un but financier afin de revendre la récolte, la majorité des cuirs et peaux et cela d'autant plus qu'ils sont rares se revendent très bien et assez cher. Notez qu'un [tailleur][tailleur] voire un [forgeron][forge] (dans une moindre mesure) peut trouver cette profession d'autant plus intéressante que des recettes pour ces 2 métiers utilisent du cuir.
+D'une manière générale le dépeçage est associée au [travail du cuir][travail-du-cuir] plutôt qu'à une classe. On choisira aussi cette profession dans un but financier afin de revendre la récolte, la majorité des cuirs et peaux et cela d'autant plus qu'ils sont rares et se revendent donc très bien et assez cher. Notez qu'un [tailleur][tailleur] voire un [forgeron][forge] (dans une moindre mesure) peut trouver cette profession d'autant plus intéressante que des recettes pour ces deux métiers utilisent du cuir.
 
 **Devenir Dépeceur et progresser**
 
-Comme tous les métiers de collecte, la profession de dépeceur peut être apprise, dès le niveau 1, auprès d'un instructeur qui restera le même jusqu'au niveau maître. Il n'y pas de nécessité de rechercher un instructeur spécialisé qu'à partir de 300 dans votre compétence.
+Comme tous les métiers de collecte, la profession de dépeceur peut être apprise, dès le premier niveau, auprès d'un instructeur qui restera le même jusqu'au niveau maître. Il n'y pas de nécessité de rechercher un instructeur spécialisé qu'à partir de 300 dans votre compétence.
 Vous pourrez progresser en récoltant la peau des animaux morts. Non seulement ceux que vous avez tués mais également les dépouilles laissées par les autres joueurs. On ne peut dépecer une créature qui n'a pas été lootée.
 La qualité et le type de cuir que vous obtenez dépendent du niveau de la créature et de votre compétence.
 
-*NB*: En général vous trouverez un instructeur pour le Travail du cuir non loin de votre instructeur Dépeceur.
-*Outil*: couteau de dépeceur
+* *NB*: En général vous trouverez un instructeur pour le [travail du cuir][travail-du-cuir] non loin de votre instructeur dépeceur.
+* *Outil*: Couteau de dépeceur
 
 **Informations**
 
-* Le résultat de la récolte est 1 à 3 cuirs ou une peau (rare).
+* Le résultat de la récolte est de 1 à 3 cuirs ou une peau (rare).
 * D'une manière globale, au maximum, vous pouvez dépecer un animal d'un niveau égal à votre compétence divisée par 5, d'un autre coté le dépeçage d'un animal dont le niveau est inférieur à votre compétence divisée par 10 ne pourra plus vous faire progresser.
 * Les cuirs peuvent être empilés par 20, les peaux par 10 avant traitement, 20 après traitement.
 * Il faut environ 5 secondes pour dépeucer une créature. Attention aux créatures et ennemis qui peuvent vous interrompre.
@@ -348,14 +348,14 @@ L'Herboristerie va de paire avec l'[alchimie][alchimie]. De nombreuses variété
 
 **Pour qui ?**
 
-D'une manière générale l'Herboristerie est associée à l'[alchimie][alchimie] plutôt qu'à une classe. On choisira aussi cette profession dans un but financier afin de revendre la récolte, la majorité des herbes (et cela d'autant plus qu'elles sont rares) se revendent très bien et assez cher.
+D'une manière générale l'herboristerie est associée à l'[alchimie][alchimie] plutôt qu'à une classe. On choisira aussi cette profession dans un but financier afin de revendre la récolte, la majorité des herbes (et cela d'autant plus qu'elles sont rares) se revendent très bien et assez cher.
 
 **Devenir Herboriste et progresser**
 
-Comme tous les métiers de collecte, la profession d'herboriste peut être apprise, dès le niveau 1, auprès d'un instructeur qui restera le même jusqu'au niveau maître. Il n'y pas de nécessité de rechercher un instructeur spécialisé qu'à partir de 300 dans votre compétence.
+Comme tous les métiers de collecte, la profession d'herboriste peut être apprise, dès le premier niveau, auprès d'un instructeur qui restera le même jusqu'au niveau maître. Il n'y pas de nécessité de rechercher un instructeur spécialisé qu'à partir de 300 dans votre compétence.
 Vous pourrez progresser en cueillant des herbes. A cet effet n'oubliez pas d'activer votre capacité de détection afin de faciliter votre travail.
 
-* *NB* : En général vous trouverez un instructeur Alchimiste non loin de votre instructeur Herboriste.
+* *NB* : En général vous trouverez un instructeur alchimiste non loin de votre instructeur herboriste.
 * *Outil* : Aucun
 
 **Informations**
@@ -369,8 +369,6 @@ Liste des plantes récoltables et progression (écran).
 Autres informations utiles
 * Afin de faciliter vos travaux de recherche, voici une liste des lieux ou l'on peut récolter les différentes plantes : Localisation des Plantes et Herbes (PDF).
 Cette liste comporte également le prix de revente chez un marchand (indicatif) ainsi que le niveau de compétence nécessaire à la récolte.
-* Vous pouvez consulter la page officielle.
-* Si l'anglais ne vous arrête pas je vous conseille également la Faq du forum américain où vous trouverez nombre des sources utilisées pour réaliser cette page (je remercie mille fois leurs auteurs).
 * Liste des instructeurs pour l'Herboristerie (écran) ou (PDF).
 
 **Guide**
@@ -630,13 +628,14 @@ Vous voulez devenir mineur ? L'exploitation des mines est une activité passionn
 
 **Pour qui ?**
 
-D'une manière générale le minage est associé à la [forge][forge], l'ingénierie plutôt qu'à une classe. On choisira aussi cette profession dans un but financier afin de revendre la récolte, la majorité des minerais et pierres précieuses, et cela d'autant plus qu'ils sont rares, se revendent très bien et assez cher.
+D'une manière générale le minage est associé à la [forge][forge], l'[ingénierie][ingenierie] plutôt qu'à une classe. On choisira aussi cette profession dans un but financier afin de revendre la récolte, la majorité des minerais et pierres précieuses, et cela d'autant plus qu'ils sont rares, se revendent très bien et assez cher.
 
 **Devenir Mineur et progresser**
 
-Comme tous les métiers de collecte, la profession de mineur peut être apprise, dès le niveau 1, auprès d'un instructeur qui restera le même jusqu'au niveau maître. Il n'y pas de nécessité de rechercher un instructeur spécialisé qu'à partir de 300 dans votre compétence.
+Comme tous les métiers de collecte, la profession de mineur peut être apprise, dès le premier niveau, auprès d'un instructeur qui restera le même jusqu'au niveau maître. Il n'y pas de nécessité de rechercher un instructeur spécialisé qu'à partir de 300 dans votre compétence.
 Vous pourrez progresser en récoltant des minerais dans des filons mais aussi en effectuant la fonte des minerais. N'oubliez pas d'activer votre capacité de détection afin de faciliter votre travail de découverte des filons.
-Outil : pioche de mineur. Présence d'une forge pour les recettes de fonte.
+
+* *Outil* : Pioche de mineur. Présence d'une forge pour les recettes de fonte.
 
 **Informations**
 
@@ -661,7 +660,7 @@ Cette liste comporte également le prix de revente chez un marchand (indicatif) 
 * *Compétence* : Ingénierie
 * *Association* : [Minage][mineur]
 
-L'ingénierie sert à assembler métaux et pierres pour fabriquer des explosifs, des revolvers, des munitions, des dragons mécaniques, des casques aquatiques, des lunettes de vision et bien d'autres choses encore. La production de ces objets requiert souvent de nombreuses étapes, ce qui force l'ingénieur à avoir de nombreuses places libres dans ses sacs. Le métier d'ingénieur est le plus long à maîtriser, mais c'est un métier très complet et très utile : il vous permet de concevoir et fabriquer toutes sortes d'objets farfelus.
+L'ingénierie sert à assembler métaux et pierres pour fabriquer des explosifs, des armes à feu, des munitions, des dragons mécaniques, des casques aquatiques, des lunettes de vision et bien d'autres choses encore. La production de ces objets requiert souvent de nombreuses étapes, ce qui force l'ingénieur à avoir de nombreuses places libres dans ses sacs. Le métier d'ingénieur est le plus long à maîtriser, mais c'est un métier très complet et très utile : il vous permet de concevoir et fabriquer toutes sortes d'objets farfelus.
 
 **Pour qui ?**
 
@@ -674,7 +673,8 @@ La large gamme d'objets produits est à la fois un incitant et un frein au choix
 Comme tous les métiers primaires (sauf récolte), la profession d'ingénieur peut-être apprise, dès le niveau 5, auprès d'un instructeur apprenti. Par la suite il vous faudra trouver à chaque fois un instructeur spécifique pour vous permettre de progresser plus avant (voir informations utiles).
 Au niveau 30 et compétence 200, vous pourrez choisir de vous spécialiser entre l'ingénierie gobeline et l'ingénierie gnome, cette spécialisation vous ouvrira l'accès à des patrons uniques (voir spécialisation). Vous pourrez progresser en réalisant des gadgets et autres objets.
 La plus grande partie des matières premières de vos réalisations sera trouvée grâce au travail de minage, mais il vous faudra recourir à de nombreuses autres sources pour vous procurer les très diverss ingrédients nécessaires à la profession.
-Outil : marteau de forgeron (parfois), nombreux autres (produits par l'ingénieur grâce à un plan), présence d'une forge parfois requise.
+
+* *Outil* : Marteau de forgeron (parfois), nombreux autres (produits par l'ingénieur grâce à un plan), présence d'une forge parfois requise.
 
 **Informations**
 
@@ -689,15 +689,15 @@ Outil : marteau de forgeron (parfois), nombreux autres (produits par l'ingénieu
 
 **Autres informations utiles**
 
-* Vous pouvez consulter la page officielle.
-* Si l'anglais ne vous arrête pas je vous conseille également la Faq du forum américain où vous trouverez nombre des sources utilisées pour réaliser cette page (je remercie mille fois leurs auteurs).
 * Liste des instructeurs pour l'ingénierie (écran) ou (PDF).
 
 **Spécialisation**
 
 Il existe deux spécialisations accessibles au niveau 30 et 200 en compétence :
-- Ingénierie Gobeline : accès à des patrons spécialisés.
-- Ingénierie Gnome : accès à des patrons spécialisés.
+
+* *Ingénierie Gobeline* : accès à des patrons spécialisés
+* *Ingénierie Gnome* : accès à des patrons spécialisés
+* 
 L'accès aux différentes spécialisations nécessite la réalisation d'une quête. Détail des quêtes (PDF).
 
 *Important*: après quelques jours vous devrez renouveler votre participation à votre spécialisation, en le faisant vous recevrez un cadeau, la plupart du temps ce ne seront que des composantes mais parfois vous recevrez un schéma original (dont certains ne peuvent être obtenus que de cette manière).
@@ -705,13 +705,13 @@ L'accès aux différentes spécialisations nécessite la réalisation d'une quê
 <h2 id="alchimie">Alchimie</h2>
 
 * *Compétence* : Alchimie
-* *Association* : [Pêche][peche]
+* *Association* : [Herboristerie][herborister] et [Pêche][peche]
 
 L'alchimiste mélange des herbes pour préparer des potions aux effets très variés : potions de guérison, d'invisibilité, de résistance aux éléments, de mana, huiles pour enduire les armes, et bien d'autres choses encore.
 
 **Pour qui ?**
 
-D'une manière générale l'Alchimie est associée à la Botanique plutôt qu'à une classe. Les classes combattantes apprécient ce métier en ce qu'il leur permet de renforcer leurs pouvoirs (buff) et de se soigner. Quant aux lanceurs de sort, ils apprécieront tout particulièrement les potions de mana.
+D'une manière générale l'alchimie est associée à l'[herboristerie][herboristerie] et à la [pêche][peche] plutôt qu'à une classe. Les classes combattantes apprécient ce métier en ce qu'il leur permet de renforcer leurs pouvoirs (buff) et de se soigner. Quant aux lanceurs de sort, ils apprécieront tout particulièrement les potions de mana.
 On peut aussi choisir cette profession dans un but financier afin de revendre la production, certaines potions très prisées se revendant très bien et assez cher.
 
 **Devenir Alchimiste et progresser**
@@ -719,7 +719,7 @@ On peut aussi choisir cette profession dans un but financier afin de revendre la
 Comme tous les métiers primaires (sauf récolte), la profession d'alchimiste peut être apprise, dès le niveau 5, auprès d'un instructeur apprenti. Par la suite il vous faudra trouver à chaque fois un instructeur spécifique pour vous permettre de progresser plus avant (voir informations utiles).
 Vous pourrez progresser en réalisant des potions et des élixirs.
 
-* *NB* : en général vous trouverez un instructeur Herboriste non loin de votre instructeur Alchimiste.
+* *NB* : en général vous trouverez un instructeur Herboriste non loin de votre instructeur alchimiste.
 * *Outil* : aucun (nécessité d'une fiole vide pour placer le résultat de votre alchimie).
 
 **Informations**
@@ -734,8 +734,9 @@ Recette, plans, formules
 * Liste des recettes d'Alchimies (écran) ou (PDF).
 (Prix, effet, niveaux, talents, compositions).
 * Localisation des recettes (écran) ou (PDF)
-Autres informations utiles
-* Vous pouvez consulter la page officielle.
+
+**Autres informations utiles**
+
 * Liste des instructeurs pour l'alchimie (écran) ou (PDF)
 
 [peche]: {{ site.baseurl }}/docs/metiers-secondaires/#peche
