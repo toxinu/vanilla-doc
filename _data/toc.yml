@@ -1,16 +1,12 @@
 categories:
     -
-        title: '<i class="fa fa-search"></i>Recherche'
-        slug: 'recherche'
-        url: 'recherche.html'
-    -
         title: 'Histoire'
         slug: 'histoire'
         url: 'histoire'
     -
-        title: 'Villes'
-        slug: 'villes'
-        url: 'villes'
+        title: 'Capitales'
+        slug: 'capitales'
+        url: 'capitales'
     -
         title: 'Régions'
         slug: 'regions'
@@ -31,11 +27,6 @@ categories:
         title: 'Métiers secondaires'
         slug: 'metiers-secondaires'
         url: 'metiers-secondaires'
-
-    -
-        title: 'Quêtes'
-        slug: 'quetes'
-        url: 'quetes'
     -
         title: 'Donjons'
         slug: 'donjons'

@@ -7,10 +7,10 @@ date: 2013-12-20 15:07:26
 
 <h2 id="depeceur">Dépeceur</h2>
 
+Le dépeçage permet de rassembler des pièces de cuir et de peaux d'animaux morts. Cuirs et peaux sont ainsi très utiles aux [artisans du cuir][travail-du-cuir], mais aussi à certains [forgerons][forge], aux [ingénieurs][ingenierie] et aux [tailleurs][tailleur].
+
 * *Compétence* : Dépeçage
 * *Association* : [Travail du cuir][travail-du-cuir]
-
-Le dépeçage permet de rassembler des pièces de cuir et de peaux d'animaux morts. Cuirs et peaux sont ainsi très utiles aux [artisans du cuir][travail-du-cuir], mais aussi à certains [forgerons][forge], aux [ingénieurs][ingenierie] et aux [tailleurs][tailleur].
 
 **Pour qui ?**
 
@@ -33,234 +33,194 @@ La qualité et le type de cuir que vous obtenez dépendent du niveau de la créa
 * Il faut environ 5 secondes pour dépeucer une créature. Attention aux créatures et ennemis qui peuvent vous interrompre.
 * Le niveau de la créature influe sur le type de cuir (ou peau) dépecable, grossièrement on obtient (pdf)
 
-<table class="table table-striped table-hover">
-    <col>
-    <col span='13' align='center' width=55>
-    <tr>
-        <td></td>
-        <td>1-5</td>
-        <td>6-10</td>
-        <td>11-15</td>
-        <td>16-20</td>
-        <td>21-25</td>
-        <td>26-30</td>
-        <td>31-35</td>
-        <td>36-40</td>
-        <td>41-45</td>
-        <td>46-50</td>
-        <td>51-55</td>
-        <td>56-60</td>
-        <td>60+</td>
-    </tr>
-    <tr>
-        <td>Lanières de cuir déchirées</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-    </tr>
-    <tr>
-        <td>Cuir léger</td>
-        <td>&nbsp;</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-    </tr>
-    <tr>
-        <td>Cuir moyen</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-    </tr>
-    <tr>
-        <td>Cuir lourd</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-    </tr>
-    <tr>
-        <td>Cuir épais</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-    </tr>
-    <tr>
-        <td>Cuir robuste</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>&nbsp;</td>
-    </tr>
-    <tr>
-        <td>Lanière de cuir granuleux</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>X</td>
-    </tr>
-    <tr>
-        <td>Cuir granuleux</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>X</td>
-    </tr>
-    <tr>
-        <td>Peau légère</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-    </tr>
-    <tr>
-        <td>Peau moyenne</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-    </tr>
-    <tr>
-        <td>Peau lourde</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-    </tr>
-    <tr>
-        <td>Peau épaisse</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-    </tr>
-    <tr>
-        <td>Peau robuste</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>X</td>
-        <td>X</td>
-        <td>&nbsp;</td>
-    </tr>
-</table>
+<div class="table-responsive">
+    <table class="table table-condensed">
+        <thead>
+            <tr>
+                <th></th>
+                <th><center>1-5</center></th>
+                <th><center>6-10</center></th>
+                <th><center>11-15</center></th>
+                <th><center>16-20</center></th>
+                <th><center>21-25</center></th>
+                <th><center>26-30</center></th>
+                <th><center>31-35</center></th>
+                <th><center>36-40</center></th>
+                <th><center>41-45</center></th>
+                <th><center>46-50</center></th>
+                <th><center>51-55</center></th>
+                <th><center>56-60</center></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Lanières de cuir déchirées</strong></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Cuir léger</strong></td>
+                <td></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Cuir moyen</strong></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Cuir lourd</strong></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Cuir épais</strong></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Cuir robuste</strong></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+            </tr>
+            <tr>
+                <td><strong>Peau légère</strong></td>
+                <td></td>
+                <td></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Peau moyenne</strong></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Peau lourde</strong></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Peau épaisse</strong></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Peau robuste</strong></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td><center>X</center></td>
+                <td><center>X</center></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 **Guide**
 
@@ -341,10 +301,10 @@ La qualité et le type de cuir que vous obtenez dépendent du niveau de la créa
 
 <h2 id="herboristerie">Herboristerie</h2>
 
+L'Herboristerie va de paire avec l'[alchimie][alchimie]. De nombreuses variétés d'herbes curatives sont présentes dans toutes les régions du monde : pourquoi ne pas profiter de leurs vertus ? L'[alchimie][alchimie], quant à elle, permet de concocter toutes sortes de potions bénéfiques avec ces herbes.
+
 * *Compétence* : Herboristerie
 * *Association* : [Alchimie][alchimie]
-
-L'Herboristerie va de paire avec l'[alchimie][alchimie]. De nombreuses variétés d'herbes curatives sont présentes dans toutes les régions du monde : pourquoi ne pas profiter de leurs vertus ? L'[alchimie][alchimie], quant à elle, permet de concocter toutes sortes de potions bénéfiques avec ces herbes.
 
 **Pour qui ?**
 
@@ -364,12 +324,13 @@ Vous pourrez progresser en cueillant des herbes. A cet effet n'oubliez pas d'act
 * Certaines plantes ne sont pas récoltées directement mais trouvées en association avec une autre. (Le chardonnier avec le mageroyal ou de l'églantine, la sauvageonne avec le lotus pourpre, Le gangrelys avec la gangrelette, la graine de cauchemardelle avec la cauchemardelle et le gangrelotus sur les plantes de l'Outreterre)
 * Le vignesang est trouvé en association avec les plantes récoltée dans Zul'Gurub si vous avez une faucille de sang en votre possession. * Certaines créatures en mourrant peuvent être 'cueillies' pour obtenir une plante. * Les plantes peuvent être empilées par 20 dans vos sacs.
 * Il faut environ 5 secondes pour récolter une plante (Attention aux créatures et ennemis qui peuvent vous interrompre).
-Recette, plans, formules
-Liste des plantes récoltables et progression (écran).
-Autres informations utiles
-* Afin de faciliter vos travaux de recherche, voici une liste des lieux ou l'on peut récolter les différentes plantes : Localisation des Plantes et Herbes (PDF).
-Cette liste comporte également le prix de revente chez un marchand (indicatif) ainsi que le niveau de compétence nécessaire à la récolte.
-* Liste des instructeurs pour l'Herboristerie (écran) ou (PDF).
+
+**Recette, plans, formules**
+
+* Liste des plantes récoltables et progression (écran)
+* Afin de faciliter vos travaux de recherche, voici une liste des lieux ou l'on peut récolter les différentes plantes : Localisation des Plantes et Herbes (PDF)
+Cette liste comporte également le prix de revente chez un marchand (indicatif) ainsi que le niveau de compétence nécessaire à la récolte
+* Liste des instructeurs pour l'Herboristerie (écran) ou (PDF)
 
 **Guide**
 
@@ -621,10 +582,10 @@ Cette liste comporte également le prix de revente chez un marchand (indicatif) 
 
 <h2 id="mineur">Mineur</h2>
 
+Vous voulez devenir mineur ? L'exploitation des mines est une activité passionnante, qui permet de collecter les matières premières utiles au forgeron ou à l'ingénieur. Mais il n'est pas nécessaire de combiner le métier de mineur avec l'un ou l'autre de ces métiers. Vous pouvez juste devenir mineur pour collecter du minerai et le revendre ensuite. Vous passerez à côté de filons partout dans le monde : pourquoi ne pas en tirer profit ?
+
 * *Compétence* : Minage
 * *Association* : [Forge][forge], [Ingénierie][ingenierie]
-
-Vous voulez devenir mineur ? L'exploitation des mines est une activité passionnante, qui permet de collecter les matières premières utiles au forgeron ou à l'ingénieur. Mais il n'est pas nécessaire de combiner le métier de mineur avec l'un ou l'autre de ces métiers. Vous pouvez juste devenir mineur pour collecter du minerai et le revendre ensuite. Vous passerez à côté de filons partout dans le monde : pourquoi ne pas en tirer profit ?
 
 **Pour qui ?**
 
@@ -652,15 +613,14 @@ Cette liste comporte les niveaux de talent nécessaires, les prix d'achat et de 
 
 * Afin de faciliter vos travaux de recherches, voici une liste des lieux ou l'on peut récolter les différents minerais: Localisation des minerais (PDF).
 Cette liste comporte également le prix de revente chez un marchand (indicatif) ainsi que le niveau de compétence nécessaire à la récolte.
-* Vous pouvez consulter la page officielle.
 * Liste des instructeurs pour le minage (écran) ou (PDF).
 
 <h2 id="ingenierie">Ingénierie</h2>
 
+L'ingénierie sert à assembler métaux et pierres pour fabriquer des explosifs, des armes à feu, des munitions, des dragons mécaniques, des casques aquatiques, des lunettes de vision et bien d'autres choses encore. La production de ces objets requiert souvent de nombreuses étapes, ce qui force l'ingénieur à avoir de nombreuses places libres dans ses sacs. Le métier d'ingénieur est le plus long à maîtriser, mais c'est un métier très complet et très utile : il vous permet de concevoir et fabriquer toutes sortes d'objets farfelus.
+
 * *Compétence* : Ingénierie
 * *Association* : [Minage][mineur]
-
-L'ingénierie sert à assembler métaux et pierres pour fabriquer des explosifs, des armes à feu, des munitions, des dragons mécaniques, des casques aquatiques, des lunettes de vision et bien d'autres choses encore. La production de ces objets requiert souvent de nombreuses étapes, ce qui force l'ingénieur à avoir de nombreuses places libres dans ses sacs. Le métier d'ingénieur est le plus long à maîtriser, mais c'est un métier très complet et très utile : il vous permet de concevoir et fabriquer toutes sortes d'objets farfelus.
 
 **Pour qui ?**
 
@@ -686,9 +646,6 @@ La plus grande partie des matières premières de vos réalisations sera trouvé
 * Liste des patrons d'ingénieur (écran) ou (PDF).
 (Prix, effet, niveaux, talents, compositions).
 * Localisation des recettes (écran) ou (PDF).
-
-**Autres informations utiles**
-
 * Liste des instructeurs pour l'ingénierie (écran) ou (PDF).
 
 **Spécialisation**
@@ -697,17 +654,17 @@ Il existe deux spécialisations accessibles au niveau 30 et 200 en compétence :
 
 * *Ingénierie Gobeline* : accès à des patrons spécialisés
 * *Ingénierie Gnome* : accès à des patrons spécialisés
-* 
+*
 L'accès aux différentes spécialisations nécessite la réalisation d'une quête. Détail des quêtes (PDF).
 
 *Important*: après quelques jours vous devrez renouveler votre participation à votre spécialisation, en le faisant vous recevrez un cadeau, la plupart du temps ce ne seront que des composantes mais parfois vous recevrez un schéma original (dont certains ne peuvent être obtenus que de cette manière).
 
 <h2 id="alchimie">Alchimie</h2>
 
-* *Compétence* : Alchimie
-* *Association* : [Herboristerie][herborister] et [Pêche][peche]
-
 L'alchimiste mélange des herbes pour préparer des potions aux effets très variés : potions de guérison, d'invisibilité, de résistance aux éléments, de mana, huiles pour enduire les armes, et bien d'autres choses encore.
+
+* *Compétence* : Alchimie
+* *Association* : [Herboristerie][herboristerie] et [Pêche][peche]
 
 **Pour qui ?**
 
@@ -730,17 +687,205 @@ Vous pourrez progresser en réalisant des potions et des élixirs.
 * En plus de réaliser des potions les alchimistes disposent de recettes pour transmuter les métaux.
 * Les Flacons (potion-300) sont des potions très puissantes dont les effets ne se combinent pas.
 * La pêche est une compétence utile pour l'alchimiste, de nombreuse recettes utilisant les produits de celle-ce.
-Recette, plans, formules
+
+**Recette, plans, formules**
+
 * Liste des recettes d'Alchimies (écran) ou (PDF).
 (Prix, effet, niveaux, talents, compositions).
 * Localisation des recettes (écran) ou (PDF)
+* Liste des instructeurs pour l'alchimie (écran) ou (PDF)
+
+<h2 id="tailleur">Tailleur</h2>
+
+Le métier de tailleur permet aux joueurs de découper et d'assembler des pièces de tissu pour confectionner des armures, des sacs, des tuniques et autres types de vêtements.
+
+* *Compétence* : Couture
+* *Association* : - (le choix de dépeceur est une option intéressante)
+
+**Pour qui ?**
+
+D'une manière générale la couture est associée aux classes porteuses d'armures de tissu (mage, démoniste et prêtre).
+Toutefois l'un des objets produits, à savoir le sac, est très prisé et ce quelle que soit la classe.
+On peut aussi choisir cette profession dans un but financier afin de revendre la production, certains objets très prisés se revendant très bien et assez cher.
+Le tailleur produit également des vêtements qui peuvent être acquis afin de personnaliser son personnage ou dans des buts d'animation roleplay (robe de mariée, de cérémonie, smoking, ...).
+
+**Devenir Tailleur et progresser**
+
+Comme tous les métiers primaires (sauf récolte), la profession de tailleur peut être apprise, dès le niveau 5, auprès d'un instructeur apprenti. Par la suite il vous faudra trouver à chaque fois un instructeur spécifique pour vous permettre de progresser plus avant (voir informations utiles).
+Vous pourrez progresser en réalisant des objets en tissu.
+La plus grande partie des matières premières (tissu) de vos réalisations sera trouvée sur la dépouille des humanoïdes et des morts-vivants. Les tissus ne sont ni récoltés ni fabriqués.
+
+* *Outil* : aucun
+
+**Informations**
+
+* Le résultat de la couture est un vêtement, armure de tissu, sac ou rouleau de tissu.
+* Les tissus (étoffes) peuvent être empilés par 20 dans vos sacs. Les rouleaux par 10.
+* Le temps pour réaliser un objet de tissu est variable selon le niveau de celui-ci (de 1 à plusieurs secondes). Attention aux créatures et ennemis qui peuvent vous interrompre :).
+
+**Recette, plans, formules**
+
+* Liste des patrons de couture (écran) ou (PDF)
+(Prix, effet, niveaux, talents, compositions)
+* Localisation des patrons (écran) ou (PDF)
+* Liste des instructeurs pour la couture (écran) ou (PDF)
+
+**Spécialisation**
+
+Sans contrainte de quête, il vous est offert auprès d'un instructeur spécial (Fossoyeuse ou Hurlevent) d'étudier des patrons en tisse-ombre.
+
+<h2 id="forge">Forgeron</h2>
+
+Le forgeron utilise les barres de métal du mineur pour en faire des armes ou des armures. Certaines armes et pièces d'équipement uniques ne peuvent être trouvées ni chez des commerçants ni sur des monstres. Le seul moyen de se les procurer est donc de demander à un forgeron de les fabriquer. Ils peuvent créer des pierres à aiguiser utilisables pour augmenter temporairement la puissance des armes. Ils peuvent également créer des objets utiles pour d'autres artisans, notamment les enchanteurs.
+
+* *Compétence* : Forgeron
+* *Association* : Mineur
+
+**Pour qui ?**
+
+D'une manière générale la forge est associée aux classes porteuses d'armure de métal ([guerrier][guerrier], [paladin][paladin]).
+On peut aussi choisir cette profession dans un but financier afin de revendre la production, certains objets très prisés se revendent très bien et assez cher.
+Le forgeron produit également des objets en métal utilisés dans d'autres professions ainsi que des pierres pour aiguiser les armes.
+
+**Devenir forgeron et progresser**
+
+Comme tous les métiers primaires (sauf récolte), la profession de forgeron peut être apprise, dès le niveau 5, auprès d'un instructeur apprenti. Par la suite il vous faudra trouver à chaque fois un instructeur spécifique pour vous permettre de progresser plus avant (voir informations utiles).
+Le forgeron pourra choisir de se spécialiser entre Armures ou Armes, cela lui ouvrira l'accès à certains patrons spéciaux et limités à cette spécialisation (voir spécialisations).
+Vous pourrez progresser en réalisant des objets en métal et des pierres à aiguiser.
+
+* *Outil* : marteau de forgeron (présence d'une enclume souvent requise).
+
+**Informations**
+
+* Le résultat de la forge est une arme, armure de métal (maille ou plates), pierre à aiguiser.
+* Les barres de métal et pierres peuvent être empilées par 20 dans vos sacs.
+* Le temps pour réaliser un objet de métal est variable selon le niveau de celui-ci (de 1 à plusieurs secondes). Attention aux créatures et ennemis qui peuvent vous interrompre :).
+* On ne peut fondre le Dark Iron qu'à la forge noire et la recette s'apprend auprès de Funeb'rel dans les profondeurs de Blackrock
+
+**Recette, plans, formules**
+
+* Liste des patrons de forge (écran) ou (PDF)
+(Prix, effet, niveaux, talents, compositions)
+* Localisation des plans (écran) ou (PDF)
+* Liste des instructeurs pour la forge (écran) ou (PDF)
+
+**Spécialisation**
+
+Il existe deux spécialisations accessibles au niveau 40 et 200 en compétence.
+
+* Spécialiste en Armures (Armurier): Accès à des patrons d'armures spécialisés.
+* Spécialisation en Armes (Forge d'Armes): Accès à des patrons d'armes spécialisés.
+
+La spécialisation en Arme vous ouvre l'accès à 3 spécialisations supplémentaires :
+
+* *Fabrique de Haches* : accès à des patrons d'haches spéciaux.
+* *Fabrique d'Epées* : accès à des patrons d'épées spéciaux.
+* *Forge de Marteaux* : accès à des patrons de masses spéciaux.
+
+L'accès aux différentes spécialisations nécessite la réalisation d'une quête. Détail des quêtes (PDF).
+
+* *NB* : Si l'on choisit Arme, on peut se spécialiser par la suite en Hache, épée ou masse (1 seule des trois), mais on reste toutefois spécialisé en Arme (génériques) en même temps que sa spécialisation spécifique.
+
+<h2 id="travail-du-cuir">Travail du cuir</h2>
+
+Ce métier permet de transformer cuirs et peaux en armures de cuir ainsi que des renfort servant à l'amélioration d'armures. Paradoxalement, à haut niveau, le travail du cuir permettra de réaliser des armures métalliques (mailles)
+
+* *Compétence* : Travail du cuir
+* *Association* : Dépeceur
+
+**Pour qui ?**
+
+D'une manière générale le travail du cuir est associé aux classes porteuses d'armures de cuir ([voleur][voleur], [druide][druide], [chaman][chaman] et [chasseur][chasseur]).
+Notez que vous aurez la possibilité à haut niveau de réaliser des armures de mailles (notamment par le biais de la spécialisation en armure Draconique mais également dans le cadre de 2 séries de patrons classiques, basés sur les écailles de scorpion et de tortue).
+On peut aussi choisir cette profession dans un but financier afin de revendre la production, certains objets très prisés se revendent très bien et assez cher.
+L'artisan du cuir produit également des renforts, ceux-ci peuvent être placés sur n'importe qu'elle armure afin d'en accroître l'efficacité.
+
+**Devenir Artisan du cuir et progresser**
+
+Comme tous les métiers primaires (sauf récolte), la profession d'Artisan du cuir peut être apprise, dès le niveau 5, auprès d'un instructeur apprenti. Par la suite il vous faudra trouver à chaque fois un instructeur spécifique pour vous permettre de progresser plus avant (voir informations utiles).
+L'artisan du cuir pourra choisir de se spécialiser entre Élémentaire, Draconique et Tribal, cette spécialisation lui ouvrira l'accès à certains patrons spéciaux et limités à cette spécialisation (voir spécialisation). Vous pourrez progresser en réalisant des objets en cuir et en tannant les peaux brutes.
+La plus grande partie des matières premières (cuir et peau) de vos réalisations sera trouvée sur les animaux, en les dépeçant.
+
+* *Outil* : couteau à dépecer
+
+**Informations**
+
+* Le résultat du travail du cuir est une armure de cuir (et de maille), cape, carquois, renfort d'armure ou peaux traitées.
+* Les cuirs et peaux traitées peuvent être empilés par 20 dans vos sacs.
+* Le temps pour réaliser un objet de cuir est variable selon le niveau de celui-ci (de 1 à plusieurs secondes). Attention aux créatures et ennemis qui peuvent vous interrompre :).
+* Les renforts d'armure ne se superposent ni entre eux, ni avec les enchantements, ni avec les accéssoires. Ils s'appliquent sur tous les types d'armure (tissu, cuir, maille, plates) mais uniquement sur les armures de poitrine, mains, jambes et pieds.
+
+**Recette, plans, formules**
+
+* Liste des patrons du travail du cuir (écran) ou (PDF).
+(Prix, effet, niveaux, talents, compositions).
+* Localisation des recettes (écran) ou (PDF).
+* Liste des instructeurs pour le travail du cuir (écran) ou (PDF).
+
+**Spécialisation**
+
+Il existe trois spécialisations accessibles au niveau 40 et 225 en compétence.
+
+* *Cuir Draconnique* : ces armures de mailles offrent notamment des bonus d'intelligence, d'esprit et d'endurance, ainsi que des améliorations de résistance.
+* *Cuir Tribal* : ces armures de cuir offrent notamment des bonus d'esprit et d'endurance, ainsi que des améliorations de résistance.
+* *Cuir Elémentaire* : ces armures de cuir offrent notamment des bonus d'agilité, d'esprit et d'endurance, ainsi que des améliorations de résistance.
+
+L'accès aux différentes spécialisations nécessite la réalisation d'une quête - Détail des quêtes (PDF).
+
+<h2 id="enchanteur">Enchanteur</h2>
+
+Les enchanteurs utilisent leurs formules magiques pour améliorer durablement des armes, des armures et d'autres pièces d'équipement. Enchanter requiert d'avoir à disposition des ingrédients spéciaux qui ne s'obtiennent qu'en désenchantant des objets magiques. En utilisant ces composantes, les enchanteurs peuvent rendre des objets plus puissants.
+
+* *Compétence* : Enchantement
+* *Association* : -
+
+**Pour qui ?**
+
+D'une manière générale l'enchantement n'est associé ni à une classe ni à un métier.
+Au contraire des autres métiers, il n'y aucune production physique, mais une altération d'un objet déjà existant.
+On peut aussi choisir cette profession dans un but financier mais il faut savoir que ce n'est qu'une fois atteints des niveaux de compétence très élevés que vos enchantements pourront trouver des acquéreurs, jusque là on peut considérer que cette profession vous coûtera bien plus qu'elle ne vous rapportera.
+
+**Devenir Enchanteur et progresser**
+
+Comme tous les métiers primaires (sauf récolte), la profession d'Enchanteur peut être apprise, dès le niveau 5, auprès d'un instructeur apprenti. Par la suite il vous faudra trouver à chaque fois un instructeur spécifique pour vous permettre de progresser plus avant (voir informations utiles).
+Vous pourrez progresser en plaçant des enchantements sur des objets mais surtout en désenchantant des objets magiques.
+La plus grande partie des matières premières de vos réalisations sera obtenue en désenchantant d'autres objets magiques.
+
+* *Outil* : requiert parfois l'usage d'une baguette (non consommée, créée par l'enchanteur sur base d'une production du forgeron)
+
+**Informations**
+
+* Le résultat de l'enchantement est un bonus magique à un objet
+* Le résultat du désenchantement est une ou plusieurs composantes nécessaires à l'enchantement (éclats, poussières et essences). La variété et la qualité dépendent du type et du niveau de l'objet désenchanté (voir autres informations utiles)
+* Les éclats et poussières peuvent être empilés par 20 dans vos sacs. Les essences peuvent être empilées par 10
+* Vous pouvez à volonté réunir 3 essences inférieures pour créer 1 supérieure et inversement
+* Les couturiers peuvent produire des sacs spécifiquement conçus pour transporter les composantes d'enchantement, et ceci de 16, 20 et 24 emplacements
+* Les enchantements ne se cumulent pas entre eux ni avec les renforts d'armure, par contre vous pouvez cumuler les bonus magiques d'un objet existant avec un enchantement
+* Le temps pour réaliser un enchantement est variable selon le niveau de celui-ci (de 1 à plusieurs secondes). Attention aux créatures et ennemis qui peuvent vous interrompre
+* Vous pouvez également enchanter les objets des autres joueurs en utilisant l'emplacement spécial de « non échange » dans l'interface d'échange
+* Vous pouvez enchanter plusieurs fois de suite le même objets, les enchantements se remplaçant les uns les autres (c'est un très bon moyen pour progresser)
+
+**Recette, plans, formules**
+
+* Liste des recettes d'enchantement (écran) ou (PDF).
+(Prix, effet, niveaux, talents, compositions).
+* Localisation des formules (écran) ou (PDF).
+* Les Librams et les Arcanums (enchantement particulier)
 
 **Autres informations utiles**
 
-* Liste des instructeurs pour l'alchimie (écran) ou (PDF)
+* Afin de vous aider lorsque vous procédez au désenchantement d'un objet voici une liste des résultats du désenchantement (PDF).
+* Liste des instructeurs pour l'enchantement (écran) ou (PDF).
 
+[voleur]: {{ site.baseurl }}/docs/classes/#voleur
+[druide]: {{ site.baseurl }}/docs/classes/#druide
+[chaman]: {{ site.baseurl }}/docs/classes/#chaman
+[chasseur]: {{ site.baseurl }}/docs/classes/#chasseur
+[guerrier]: {{ site.baseurl }}/docs/classes/#guerrier
+[paladin]: {{ site.baseurl }}/docs/classes/#paladin
 [peche]: {{ site.baseurl }}/docs/metiers-secondaires/#peche
 [ingenierie]: {{ site.baseurl }}/docs/metiers-principaux/#ingenierie
+[herboristerie]: {{ site.baseurl }}/docs/metiers-principaux/#herboristerie
 [alchimie]: {{ site.baseurl }}/docs/metiers-principaux/#alchimie
 [mineur]: {{ site.baseurl }}/docs/metiers-principaux/#mineur
 [travail-du-cuir]: {{ site.baseurl }}/docs/metiers-principaux/#travail-du-cuir
