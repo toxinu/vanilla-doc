@@ -558,6 +558,7 @@ Cette liste comporte également le prix de revente chez un marchand (indicatif) 
         <div id="herboriste_271-285" class="panel-collapse collapse">
             <div class="panel-body">
                 <ul>
+                    <li>Toute la région de Gangrebois.</li>
                     <li>Toute la région du Cratère d'Un'Goro.</li>
                     <li>Toute la région d'Azshara.</li>
                 </ul>
