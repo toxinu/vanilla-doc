@@ -1,16 +1,16 @@
 categories:
-    -
-        title: 'Histoire (<em>en création</em>)'
-        slug: 'histoire'
-        url: 'histoire'
+    # -
+    #    title: 'Histoire (<em>en création</em>)'
+    #    slug: 'histoire'
+    #    url: 'histoire'
     -
         title: 'Capitales'
         slug: 'capitales'
         url: 'capitales'
-    -
-        title: 'Régions (<em>en création</em>)'
-        slug: 'regions'
-        url: 'regions'
+    # -
+    #     title: 'Régions (<em>en création</em>)'
+    #     slug: 'regions'
+    #     url: 'regions'
     -
         title: 'Races'
         slug: 'races'
@@ -27,14 +27,14 @@ categories:
         title: 'Métiers secondaires'
         slug: 'metiers-secondaires'
         url: 'metiers-secondaires'
-    -
-        title: 'Donjons (<em>en création</em>)'
-        slug: 'donjons'
-        url: 'donjons'
-    -
-        title: 'Raids (<em>en création</em>)'
-        slug: 'raids'
-        url: 'raids'
+    # -
+    #     title: 'Donjons (<em>en création</em>)'
+    #     slug: 'donjons'
+    #     url: 'donjons'
+    # -
+    #     title: 'Raids (<em>en création</em>)'
+    #     slug: 'raids'
+    #     url: 'raids'
     -
         title: '<em>Glossaire</em>'
         slug: 'glossaire'
