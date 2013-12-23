@@ -206,7 +206,7 @@ Le guerrier peut être un protecteur, un « tank » avec son armure et son boucl
         </thead>
         <tbody>
             <tr>
-                <td>Peut s'équiper de n'importe quelle armure et maîtriser toutes les armes sauf les baguettes</td>
+                <td>Peut s'équiper de n'importe quelle armure (dont maille) et maîtriser toutes les armes sauf les baguettes</td>
                 <td>Ne dispose pas de moyen de guérison</td>
             </tr>
             <tr>
@@ -230,7 +230,7 @@ Le guerrier peut être un protecteur, un « tank » avec son armure et son boucl
 </div>
 
 * **Races disponibles** : [humain][humain], [nain][nain], [elfe de la nuit][elfe-de-la-nuit], [gnome][gnome], [orc][orc], [tauren][tauren], [mort-vivant][mort-vivant], [troll][troll]
-* **Équipement autorisé** : tissu, cuir, cotte de maille, boucliers
+* **Équipement autorisé** : tissu, cuir, mailles (à partir du niveau 40, après entraînement), boucliers
 * **Armes autorisées** : toutes les armes (à l'exception des baguettes)
 
 <h2 id="mage">Mage</h2>
