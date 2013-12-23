@@ -178,7 +178,7 @@ Les taurens sont d'énormes créatures bestiales qui vivent en plein air, dans l
 ### Traits raciaux
 
 * **Choc martial - actif** : À activer pour étourdir les adversaires sur un rayon de 5 mètres - dure 2 sec. - 2 min. de recharge
-* **Endurance - passif** : Points de vie maximaux augmentés de 5
+* **Endurance - passif** : Endurance augmentée de 5%
 * **Culture - passif** : Bonus de 15 à la compétence botanique
 * **Résistance à la nature - passif** : Tous les taurens ont +10 de résistance à la nature
 
