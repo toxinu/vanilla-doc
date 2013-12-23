@@ -1,5 +1,9 @@
 categories:
     -
+        title: 'Recherche'
+        slug: 'recherche'
+        url: 'recherche.html'
+    -
         title: 'Histoire (<em>en création</em>)'
         slug: 'histoire'
         url: 'histoire'

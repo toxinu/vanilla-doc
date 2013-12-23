@@ -1,0 +1,43 @@
+---
+layout: page
+title: Recherche
+slug: recherche
+date:   2013-12-20 15:07:26
+---
+
+<script type="text/javascript">
+  $(function() {
+    var index = lunr(function () {
+      this.ref('id')
+      this.field('title', {boost: 10})
+      this.field('slug')
+      this.field('url')
+      this.field('content')
+    });
+
+    $.getJSON("{{ site.baseurl }}/search.json", function(data) {
+      console.log('TEST', data)
+      // index.load(data.docs);
+      $.each(data.docs, function(key, val) {
+        index.add($.extend({}, val, {id: key}));
+      });
+
+      $('#search-input').change(function() {
+        console.log("Searching: ", this.value);
+
+        var docs = index.search(this.value);
+        var results = $('#search-results');
+        console.log('docs', docs)
+        console.log(results)
+        $.each(docs, function(key, val) {
+          console.log('val', val)
+          results.append(val)
+        })
+      })
+    });
+  });
+</script>
+
+<input id="search-input" type="text" />
+<div id="search-results">
+</div>

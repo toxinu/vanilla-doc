@@ -1,0 +1,34 @@
+---
+---
+{
+    "name": "{{ site.title }}",
+    "description": "{{ site.tagline }}",
+    "author": "{{ site.author.name }}",
+    "docs": [
+    {% for category in site.data.toc.categories %}
+        {% if forloop.last %}
+        {
+            "url": "{{ site.baseurl }}/docs/{{ category.url }}",
+            "slug": "{{ category.slug }}",
+            "title": "{{ category.title | strip_html }}",
+            {% for page in site.pages %}
+                {% if page.slug == category.slug %}
+                    "content": "{{ page.content | strip_html | strip_newlines | escape }}"
+                {% endif %}
+            {% endfor %}
+        }
+        {% else %}
+        {
+            "url": "{{ site.baseurl }}/docs/{{ category.url }}",
+            "slug": "{{ category.slug }}",
+            "title": "{{ category.title | strip_html | strip_newlines }}",
+            {% for page in site.pages %}
+                {% if page.slug == category.slug %}
+                    "content": "{{ page.content | strip_html | strip_newlines | escape }}"
+                {% endif %}
+            {% endfor %}
+        },
+        {% endif %}
+    {% endfor %}
+    ]
+}
