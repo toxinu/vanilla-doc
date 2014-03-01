@@ -9,7 +9,7 @@ date: 2013-12-20 15:07:26
 
 <img alt="Orgrimmar carte" src="{{ site.baseurl }}/assets/images/capitales/map-orgrimmar.gif" align="right"/>
 
-Baptisée en l'honneur du légendaire Orgrim Marteau-du-destin, Orgrimmar est la capitale de la nouvelle nation orque. Construite dans un vaste canyon tortueux du pays de Durotar, elle est sans conteste l'une des plus grandes villes guerrières du monde. à l'abri derrière ses murs, les vieux chamans orcs transmettent leur savoir aux nouveaux chefs de la Horde, tandis que les guerriers s'affrontent perpétuellement dans l'arène, s'entraînant sans cesse pour survivre à leur région inhospitalière.
+Baptisée en l'honneur du légendaire Orgrim Marteau-du-destin, Orgrimmar est la capitale de la nouvelle nation orque. Construite dans un vaste canyon tortueux du pays de Durotar, elle est sans conteste l'une des plus grandes villes guerrières du monde. À l'abri derrière ses murs, les vieux chamans orcs transmettent leur savoir aux nouveaux chefs de la Horde, tandis que les guerriers s'affrontent perpétuellement dans l'arène, s'entraînant sans cesse pour survivre à leur région inhospitalière.
 
 * *Région* : Durotar
 * *Habitants* : [Orcs][orc], [Trolls][troll]
