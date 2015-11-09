@@ -2,7 +2,6 @@
 layout: page
 title: À propos
 slug: apropos
-date:   2013-12-20 15:07:26
 ---
 
 <h2 id="contribuer">Contribuer</h2>

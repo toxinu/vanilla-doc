@@ -55,9 +55,9 @@ La qualité et le type de cuir que vous obtenez dépendent du niveau de la créa
         <tbody>
             <tr>
                 <td><strong>Lanières de cuir déchirées</strong></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -71,10 +71,10 @@ La qualité et le type de cuir que vous obtenez dépendent du niveau de la créa
             <tr>
                 <td><strong>Cuir léger</strong></td>
                 <td></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -88,10 +88,10 @@ La qualité et le type de cuir que vous obtenez dépendent du niveau de la créa
                 <td></td>
                 <td></td>
                 <td></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -105,10 +105,10 @@ La qualité et le type de cuir que vous obtenez dépendent du niveau de la créa
                 <td></td>
                 <td></td>
                 <td></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -122,10 +122,10 @@ La qualité et le type de cuir que vous obtenez dépendent du niveau de la créa
                 <td></td>
                 <td></td>
                 <td></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
                 <td></td>
             </tr>
             <tr>
@@ -139,18 +139,18 @@ La qualité et le type de cuir que vous obtenez dépendent du niveau de la créa
                 <td></td>
                 <td></td>
                 <td></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
             </tr>
             <tr>
                 <td><strong>Peau légère</strong></td>
                 <td></td>
                 <td></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -164,10 +164,10 @@ La qualité et le type de cuir que vous obtenez dépendent du niveau de la créa
                 <td></td>
                 <td></td>
                 <td></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -181,9 +181,9 @@ La qualité et le type de cuir que vous obtenez dépendent du niveau de la créa
                 <td></td>
                 <td></td>
                 <td></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -198,9 +198,9 @@ La qualité et le type de cuir que vous obtenez dépendent du niveau de la créa
                 <td></td>
                 <td></td>
                 <td></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
                 <td></td>
             </tr>
             <tr>
@@ -215,8 +215,8 @@ La qualité et le type de cuir que vous obtenez dépendent du niveau de la créa
                 <td></td>
                 <td></td>
                 <td></td>
-                <td><center>X</center></td>
-                <td><center>X</center></td>
+                <td><center>&#x2714;</center></td>
+                <td><center>&#x2714;</center></td>
             </tr>
         </tbody>
     </table>

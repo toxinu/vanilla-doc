@@ -2,7 +2,6 @@
 layout: page
 title: Glossaire
 slug: glossaire
-date:   2013-12-20 15:07:26
 ---
 
 <h2 id="general">Général</h2>
