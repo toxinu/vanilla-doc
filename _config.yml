@@ -1,4 +1,4 @@
 name: World Of Warcraft Vanilla Documentation
 markdown: redcarpet
-pygments: true
-baseurl: /vanilla-doc
+highlighter: true
+baseurl: 
