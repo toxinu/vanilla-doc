@@ -1,6 +1,6 @@
 name: World Of Warcraft Vanilla Documentation
 markdown: redcarpet
 highlighter: true
-baseurl: 
+baseurl: /docs
 lunr_search:
   js_dir: "assets/js"
