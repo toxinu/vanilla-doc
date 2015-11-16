@@ -20,12 +20,4 @@ lang: fr
 * *Niveau* : 17-26
 * *Emplacement* : Marches de l'Ouest
 
-<h2 id="vc">The Deadmines</h2>
-
-* *Niveau* : 17-26
-* *Emplacement* : Marches de l'Ouest
-
-
-
-
-[orgrimmar]: {{ site.baseurl }}/docs/{{ lang.page }}/capitales/#orgrimmar
+[orgrimmar]: {{ site.baseurl }}/docs/{{ page.lang }}/capitales/#orgrimmar
