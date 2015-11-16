@@ -1,21 +1,33 @@
 <div class="left-pane">
     <ul class="toc">
         <li>
-            <a class="brand" href="{{ site.baseurl }}/" style="padding-left:10px">
+            {% if page.lang != "en" %}
+                <a class="brand" href="{{ site.baseurl }}/index.{{ page.lang }}.html" style="padding-left:10px">
                 <i class="fa fa-home fa-white"></i>ACCUEIL
+            {% else %}
+                <a class="brand" href="{{ site.baseurl }}" style="padding-left:10px">
+                <i class="fa fa-home fa-white"></i>HOME
+            {% endif %}
             </a>
+            
         </li>
+    </ul>
+    <ul class="list-inline toc">
+        <li {% if page.lang == "fr" %} class="active" {% endif %}><a href="{{ site.baseurl }}/index.fr.html">FR</a></li>
+        <li {% if page.lang == "en" %} class="active" {% endif %}><a href="{{ site.baseurl }}/index.html">EN</a></li>
+    </ul>
+    <ul class="toc">
         {% for category in site.data.toc.categories %}
             {% if category.slug == page.slug %}
                 <li class="active">
-                    <a class="heading" href="{{ site.baseurl }}/docs/{{ category.url }}">
-                        {{ category.title }}
+                    <a class="heading" href="{{ site.baseurl }}/docs/{{ page.lang }}/{{ category.url }}">
+                        {{ category.title[page.lang] }}
                     </a>
                 </li>
             {% else %}
                 <li>
-                    <a class="heading" href="{{ site.baseurl }}/docs/{{ category.url }}">
-                        {{ category.title }}
+                    <a class="heading" href="{{ site.baseurl }}/docs/{{ page.lang }}/{{ category.url }}">
+                        {{ category.title[page.lang] }}
                     </a>
                 </li>
             {% endif %}

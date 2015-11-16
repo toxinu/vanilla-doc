@@ -1,45 +1,79 @@
 categories:
-    # -
-    #    title: 'Histoire (<em>en création</em>)'
-    #    slug: 'histoire'
-    #    url: 'histoire'
     -
-        title: 'Capitales'
+        title:
+            en: 'Story (<em>in progress</em>)'
+            fr: 'Histoire (<em>en création</em>)'
+        slug: 'story'
+        url: 'story'
+    -
+        title:
+            en: 'Capitales'
+            fr: 'Capitales'
         slug: 'capitales'
         url: 'capitales'
-    # -
-    #     title: 'Régions (<em>en création</em>)'
-    #     slug: 'regions'
-    #     url: 'regions'
     -
-        title: 'Races'
+        title:
+            en: 'Regions (<em>in progress</em>)'
+            fr: 'Régions (<em>en création</em>)'
+        slug: 'regions'
+        url: 'regions'
+    -
+        title:
+            en: 'Races'
+            fr: 'Races'
         slug: 'races'
         url: 'races'
     -
-        title: 'Classes'
+        title:
+            en: 'Classes'
+            fr: 'Classes'
         slug: 'classes'
         url: 'classes'
     -
-        title: 'Métiers principaux'
-        slug: 'metiers-principaux'
-        url: 'metiers-principaux'
+        title:
+            en: 'Principal professions'
+            fr: 'Métiers principaux'
+        slug: 'principal-professions'
+        url: 'principal-professions'
     -
-        title: 'Métiers secondaires'
-        slug: 'metiers-secondaires'
-        url: 'metiers-secondaires'
-    # -
-    #     title: 'Donjons (<em>en création</em>)'
-    #     slug: 'donjons'
-    #     url: 'donjons'
-    # -
-    #     title: 'Raids (<em>en création</em>)'
-    #     slug: 'raids'
-    #     url: 'raids'
+        title:
+            en: 'Secondary professions'
+            fr: 'Métiers secondaires'
+        slug: 'secondary-professions'
+        url: 'secondary-professions'
     -
-        title: '<em>Glossaire</em>'
-        slug: 'glossaire'
-        url: 'glossaire.html'
+        title:
+            en: 'Dungeons (<em>in progress</em>)'
+            fr: 'Donjons (<em>en création</em>)'
+        slug: 'dungeons'
+        url: 'dungeons'
     -
-        title: '<em>À propos</em>'
-        slug: 'apropos'
-        url: 'apropos.html'
+        title:
+            en: 'Raids (<em>in progress</em>)'
+            fr: 'Raids (<em>en création</em>)'
+        slug: 'raids'
+        url: 'raids'
+    -
+        title:
+            en: '<em>Tools</em>'
+            fr: '<em>Outils</em>'
+        slug: 'tools'
+        url: 'tools.html'
+    -
+        title:
+            en: '<em>Search</em>'
+            fr: '<em>Recherche</em>'
+        slug: 'search'
+        url: 'search.html'
+    -
+        title:
+            en: '<em>Glossary</em>'
+            fr: '<em>Glossaire</em>'
+        slug: 'glossary'
+        url: 'glossary.html'
+    -
+        title:
+            en: '<em>About</em>'
+            fr: '<em>À propos</em>'
+        slug: 'about'
+        url: 'about.html'
